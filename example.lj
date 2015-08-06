@@ -1,1 +1,5 @@
 if false then 2 else 1
+if iszero(0) then true else false
+succ(5)
+pred(4)
+if iszero(succ(0)) then false else succ(1)
